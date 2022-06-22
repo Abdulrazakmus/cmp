@@ -1075,13 +1075,13 @@ h6 {
   margin-bottom: 5px;
 }
 .kiembe{
-  margin-bottom: 5px;
+  margin-left: 60px;
 }
 #footer .credits a {
   color: var(--pinky);
 }
 .footer-info p{
-  text-align: center;
+  text-align: justify;
 }
 #footer .credits a:hover {
   color: var(--blue);

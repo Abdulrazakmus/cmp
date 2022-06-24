@@ -1208,5 +1208,11 @@ h6 {
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
   }
+  .kiembe {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+}
 }
 /* ===============team Tunguu============== */

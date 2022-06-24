@@ -537,7 +537,7 @@ h6 {
   margin: 0 10px 40px 10px;
   background:var(--white);
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
-  transition: all 0.3s ease-in-out;
+  transition: all 0.1s ease-in-out;
   text-align: center;
 }
 .description,p{
@@ -598,7 +598,7 @@ h6 {
 #why-us .why-us-content .features {
   margin: 0 0 15px 0;
   padding: 0;
-  transition: 0.3s ease-in-out;
+  transition: 0.1s ease-in-out;
 }
 
 #why-us .why-us-content .features i {
@@ -716,7 +716,7 @@ h6 {
   line-height: 20px;
   color: var(--lowgray);
   margin-bottom: 5px;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.1s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover,
@@ -770,10 +770,10 @@ h6 {
   flex-direction: column;
   text-align: center;
   opacity: 0;
-  transition: 0.2s linear;
+  transition: 0.1s linear;
 }
 
-#portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 {
+#portfolio .portfolio-itemsection-header .portfolio-wrap .portfolio-info h4 {
   font-size: 22px;
   line-height: 1px;
   font-weight: 700;
